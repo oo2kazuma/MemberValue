@@ -26,7 +26,7 @@ Please use it in the debug log.
 
 ## Usage
 
-1.Add MemberValue.dll to the project reference.(プロジェクトの参照に [MemberValue.dll](https://github.com/oo2kazuma/MemberValue/releases/tag/0.9.7) を追加してください。)  
+1.Add MemberValue.dll to the project reference.(プロジェクトの参照に [MemberValue.dll](https://github.com/oo2kazuma/MemberValue/releases/tag/0.9.8) を追加してください。)  
 
 2.Create an instance of the MemberValue class with the object you want to dump as an argument.(
 ダンプしたいオブジェクトを引数にMemberValueクラスのインスタンスを作成してください。)    
